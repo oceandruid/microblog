@@ -1,0 +1,486 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Tim Moore",
+	"icon": "https://micro.blog/mergeconflict/avatar.jpg",
+	"home_page_url": "https://mrt.im/",
+	"feed_url": "https://mrt.im/feed.json",
+	"items": [
+		
+			{
+				"id": "http://mergeconflict.micro.blog/2023/07/25/finished-reading-red.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780345539793\">Red Rising (Red Rising Series Book 1)</a> by Pierce Brown 📚</p>\n",
+				"content_text": "Finished reading: [Red Rising (Red Rising Series Book 1)](https://micro.blog/books/9780345539793) by Pierce Brown 📚\n",
+				"date_published": "2023-07-25T19:33:37-04:00",
+				"url": "https://mrt.im/2023/07/25/finished-reading-red.html",
+				"tags": ["All Books Read","Books Read In 2023"]
+			},
+			{
+				"id": "http://mergeconflict.micro.blog/2023/07/23/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781984823793\">The Warehouse</a> by Rob Hart 📚</p>\n",
+				"content_text": "Finished reading: [The Warehouse](https://micro.blog/books/9781984823793) by Rob Hart 📚\n",
+				"date_published": "2023-07-23T23:24:48-04:00",
+				"url": "https://mrt.im/2023/07/23/finished-reading-the.html",
+				"tags": ["All Books Read","Books Read In 2023"]
+			},
+			{
+				"id": "http://mergeconflict.micro.blog/2023/07/20/finished-reading-rubicon.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781250851246\">Rubicon</a> by J. S. Dewes 📚</p>\n",
+				"content_text": "Finished reading: [Rubicon](https://micro.blog/books/9781250851246) by J. S. Dewes 📚\n",
+				"date_published": "2023-07-20T20:05:27-04:00",
+				"url": "https://mrt.im/2023/07/20/finished-reading-rubicon.html"
+			},
+			{
+				"id": "http://mergeconflict.micro.blog/2023/07/10/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781250236357\">The Exiled Fleet</a> by J. S. Dewes 📚</p>\n",
+				"content_text": "Finished reading: [The Exiled Fleet](https://micro.blog/books/9781250236357) by J. S. Dewes 📚\n",
+				"date_published": "2023-07-10T20:49:37-04:00",
+				"url": "https://mrt.im/2023/07/10/finished-reading-the.html",
+				"tags": ["All Books Read","Books Read In 2023"]
+			},
+			{
+				"id": "http://mergeconflict.micro.blog/2023/07/06/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781250236340\">The Last Watch</a> by J. S. Dewes 📚</p>\n",
+				"content_text": "Finished reading: [The Last Watch](https://micro.blog/books/9781250236340) by J. S. Dewes 📚\n",
+				"date_published": "2023-07-06T22:54:13-04:00",
+				"url": "https://mrt.im/2023/07/06/finished-reading-the.html",
+				"tags": ["All Books Read","Books Read In 2023"]
+			},
+			{
+				"id": "http://mergeconflict.micro.blog/2023/07/03/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781481497350\">The Wicked Deep</a> by Shea Ernshaw 📚</p>\n",
+				"content_text": "Finished reading: [The Wicked Deep](https://micro.blog/books/9781481497350) by Shea Ernshaw 📚\n",
+				"date_published": "2023-07-03T21:00:00-04:00",
+				"url": "https://mrt.im/2023/07/03/finished-reading-the.html",
+				"tags": ["All Books Read","Books Read In 2023"]
+			},
+			{
+				"id": "http://mergeconflict.micro.blog/2023/07/02/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780593158364\">The Golden Enclaves: A Novel (The Scholomance Book 3)</a> by Naomi Novik 📚</p>\n",
+				"content_text": "Finished reading: [The Golden Enclaves: A Novel (The Scholomance Book 3)](https://micro.blog/books/9780593158364) by Naomi Novik 📚\n",
+				"date_published": "2023-07-02T18:00:00-04:00",
+				"url": "https://mrt.im/2023/07/02/finished-reading-the.html",
+				"tags": ["All Books Read","Books Read In 2023"]
+			},
+			{
+				"id": "http://mergeconflict.micro.blog/2023/07/01/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780593128879\">The Last Graduate (The Scholomance, #2)</a> by Naomi Novik 📚</p>\n",
+				"content_text": "Finished reading: [The Last Graduate (The Scholomance, #2)](https://micro.blog/books/9780593128879) by Naomi Novik 📚\n",
+				"date_published": "2023-07-01T18:00:00-04:00",
+				"url": "https://mrt.im/2023/07/01/finished-reading-the.html",
+				"tags": ["All Books Read","Books Read In 2023"]
+			},
+			{
+				"id": "http://mergeconflict.micro.blog/2023/06/30/finished-reading-a.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780593128497\">A Deadly Education: A Novel (The Scholomance Book 1)</a> by Naomi Novik 📚</p>\n",
+				"content_text": "Finished reading: [A Deadly Education: A Novel (The Scholomance Book 1)](https://micro.blog/books/9780593128497) by Naomi Novik 📚\n",
+				"date_published": "2023-06-30T18:00:00-04:00",
+				"url": "https://mrt.im/2023/06/30/finished-reading-a.html",
+				"tags": ["All Books Read","Books Read In 2023"]
+			},
+			{
+				"id": "http://mergeconflict.micro.blog/2023/06/30/finished-reading-fourth.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781649374080\">Fourth Wing</a> by Rebecca Yarros 📚</p>\n",
+				"content_text": "Finished reading: [Fourth Wing](https://micro.blog/books/9781649374080) by Rebecca Yarros 📚\n",
+				"date_published": "2023-06-30T14:00:00-04:00",
+				"url": "https://mrt.im/2023/06/30/finished-reading-fourth.html",
+				"tags": ["All Books Read","Books Read In 2023"]
+			},
+			{
+				"id": "http://mergeconflict.micro.blog/2023/06/28/finished-reading-book.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781250812209\">Book of Night</a> by Holly Black 📚</p>\n",
+				"content_text": "Finished reading: [Book of Night](https://micro.blog/books/9781250812209) by Holly Black 📚\n",
+				"date_published": "2023-06-28T12:00:00-04:00",
+				"url": "https://mrt.im/2023/06/28/finished-reading-book.html",
+				"tags": ["All Books Read","Books Read In 2023"]
+			},
+			{
+				"id": "http://mergeconflict.micro.blog/2023/06/21/finished-reading-nine.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780063032712\">Nine Liars</a> by Maureen Johnson 📚</p>\n",
+				"content_text": "Finished reading: [Nine Liars](https://micro.blog/books/9780063032712) by Maureen Johnson 📚\n",
+				"date_published": "2023-06-21T12:00:00-04:00",
+				"url": "https://mrt.im/2023/06/21/finished-reading-nine.html",
+				"tags": ["All Books Read","Books Read In 2023"]
+			},
+			{
+				"id": "http://mergeconflict.micro.blog/2023/06/19/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780399256615\">The Madness Underneath</a> by Maureen Johnson 📚</p>\n",
+				"content_text": "Finished reading: [The Madness Underneath](https://micro.blog/books/9780399256615) by Maureen Johnson 📚\n",
+				"date_published": "2023-06-19T12:00:00-04:00",
+				"url": "https://mrt.im/2023/06/19/finished-reading-the.html",
+				"tags": ["All Books Read","Books Read In 2023"]
+			},
+			{
+				"id": "http://mergeconflict.micro.blog/2023/06/17/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780147517548\">The Shadow Cabinet</a> by Maureen Johnson 📚</p>\n",
+				"content_text": "Finished reading: [The Shadow Cabinet](https://micro.blog/books/9780147517548) by Maureen Johnson 📚\n",
+				"date_published": "2023-06-17T12:00:00-04:00",
+				"url": "https://mrt.im/2023/06/17/finished-reading-the.html",
+				"tags": ["All Books Read","Books Read In 2023"]
+			},
+			{
+				"id": "http://mergeconflict.micro.blog/2023/06/15/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780142422052\">The Name of the Star</a> by Maureen Johnson 📚</p>\n",
+				"content_text": "Finished reading: [The Name of the Star](https://micro.blog/books/9780142422052) by Maureen Johnson 📚\n",
+				"date_published": "2023-06-15T12:00:00-04:00",
+				"url": "https://mrt.im/2023/06/15/finished-reading-the.html",
+				"tags": ["All Books Read","Books Read In 2023"]
+			},
+			{
+				"id": "http://mergeconflict.micro.blog/2023/04/26/finished-reading-managing.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781430202714\">Managing Humans</a> by Michael Lopp 📚</p>\n",
+				"content_text": "Finished reading: [Managing Humans](https://micro.blog/books/9781430202714) by Michael Lopp 📚\n",
+				"date_published": "2023-04-26T12:00:00-04:00",
+				"url": "https://mrt.im/2023/04/26/finished-reading-managing.html",
+				"tags": ["All Books Read","Books Read In 2023"]
+			},
+			{
+				"id": "http://mergeconflict.micro.blog/2023/04/23/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781491973868\">The Manager&rsquo;s Path</a> by Camille Fournier 📚</p>\n",
+				"content_text": "Finished reading: [The Manager's Path](https://micro.blog/books/9781491973868) by Camille Fournier 📚\n",
+				"date_published": "2023-04-23T12:00:00-04:00",
+				"url": "https://mrt.im/2023/04/23/finished-reading-the.html",
+				"tags": ["All Books Read","Books Read In 2023"]
+			},
+			{
+				"id": "http://mergeconflict.micro.blog/2023/04/11/finished-reading-resilient.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781937557829\">Resilient Management</a> by Lara Hogan 📚</p>\n",
+				"content_text": "Finished reading: [Resilient Management](https://micro.blog/books/9781937557829) by Lara Hogan 📚\n",
+				"date_published": "2023-04-11T08:00:00-04:00",
+				"url": "https://mrt.im/2023/04/11/finished-reading-resilient.html",
+				"tags": ["All Books Read","Books Read In 2023"]
+			},
+			{
+				"id": "http://mergeconflict.micro.blog/2023/04/02/finished-reading-rivers.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781787739284\">Rivers of London: Deadly Ever After #1</a> by Ben Aaronovitch 📚</p>\n",
+				"content_text": "Finished reading: [Rivers of London: Deadly Ever After #1](https://micro.blog/books/9781787739284) by Ben Aaronovitch 📚\n",
+				"date_published": "2023-04-02T12:00:00-04:00",
+				"url": "https://mrt.im/2023/04/02/finished-reading-rivers.html",
+				"tags": ["All Books Read","Books Read In 2023"]
+			},
+			{
+				"id": "http://mergeconflict.micro.blog/2023/04/01/finished-reading-rivers.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781787736269\">Rivers of London Volume 9: Monday, Monday</a> by Ben Aaronovitch 📚</p>\n",
+				"content_text": "Finished reading: [Rivers of London Volume 9: Monday, Monday](https://micro.blog/books/9781787736269) by Ben Aaronovitch 📚\n",
+				"date_published": "2023-04-01T12:00:00-04:00",
+				"url": "https://mrt.im/2023/04/01/finished-reading-rivers.html",
+				"tags": ["All Books Read","Books Read In 2023"]
+			},
+			{
+				"id": "http://mergeconflict.micro.blog/2023/03/30/finished-reading-rivers.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781785865862\">Rivers Of London Vol. 8: The Fey and the Furious (Graphic Novel)</a> by Ben Aaronovitch 📚</p>\n",
+				"content_text": "Finished reading: [Rivers Of London Vol. 8: The Fey and the Furious (Graphic Novel)](https://micro.blog/books/9781785865862) by Ben Aaronovitch 📚\n",
+				"date_published": "2023-03-30T12:00:00-04:00",
+				"url": "https://mrt.im/2023/03/30/finished-reading-rivers.html",
+				"tags": ["All Books Read","Books Read In 2023"]
+			},
+			{
+				"id": "http://mergeconflict.micro.blog/2023/03/29/finished-reading-rivers.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781785865466\">Rivers Of London Vol. 7: Action at a Distance (Graphic Novel)</a> by Ben Aaronovitch 📚</p>\n",
+				"content_text": "Finished reading: [Rivers Of London Vol. 7: Action at a Distance (Graphic Novel)](https://micro.blog/books/9781785865466) by Ben Aaronovitch 📚\n",
+				"date_published": "2023-03-29T12:00:00-04:00",
+				"url": "https://mrt.im/2023/03/29/finished-reading-rivers.html",
+				"tags": ["All Books Read","Books Read In 2023"]
+			},
+			{
+				"id": "http://mergeconflict.micro.blog/2023/03/28/finished-reading-rivers.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781785868177\">Rivers of London Volume 6: Water Weed</a> by Ben Aaronovitch 📚</p>\n",
+				"content_text": "Finished reading: [Rivers of London Volume 6: Water Weed](https://micro.blog/books/9781785868177) by Ben Aaronovitch 📚\n",
+				"date_published": "2023-03-28T12:00:00-04:00",
+				"url": "https://mrt.im/2023/03/28/finished-reading-rivers.html",
+				"tags": ["All Books Read","Books Read In 2023"]
+			},
+			{
+				"id": "http://mergeconflict.micro.blog/2023/03/27/finished-reading-rivers.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781785865466\">Rivers Of London Vol. 7: Action at a Distance (Graphic Novel)</a> by Ben Aaronovitch 📚</p>\n",
+				"content_text": "Finished reading: [Rivers Of London Vol. 7: Action at a Distance (Graphic Novel)](https://micro.blog/books/9781785865466) by Ben Aaronovitch 📚\n",
+				"date_published": "2023-03-27T14:00:00-04:00",
+				"url": "https://mrt.im/2023/03/27/finished-reading-rivers.html",
+				"tags": ["All Books Read","Books Read In 2023"]
+			},
+			{
+				"id": "http://mergeconflict.micro.blog/2023/03/26/finished-reading-rivers.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781785863660\">Rivers of London: Cry Fox #1</a> by Ben Aaronovitch 📚</p>\n",
+				"content_text": "Finished reading: [Rivers of London: Cry Fox #1](https://micro.blog/books/9781785863660) by Ben Aaronovitch 📚\n",
+				"date_published": "2023-03-26T12:00:00-04:00",
+				"url": "https://mrt.im/2023/03/26/finished-reading-rivers.html",
+				"tags": ["All Books Read","Books Read In 2023"]
+			},
+			{
+				"id": "http://mergeconflict.micro.blog/2023/03/25/finished-reading-rivers.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781785861710\">Rivers Of London Vol. 4: Detective Stories (Graphic Novel)</a> by Ben Aaronovitch 📚</p>\n",
+				"content_text": "Finished reading: [Rivers Of London Vol. 4: Detective Stories (Graphic Novel)](https://micro.blog/books/9781785861710) by Ben Aaronovitch 📚\n",
+				"date_published": "2023-03-25T12:00:00-04:00",
+				"url": "https://mrt.im/2023/03/25/finished-reading-rivers.html",
+				"tags": ["All Books Read","Books Read In 2023"]
+			},
+			{
+				"id": "http://mergeconflict.micro.blog/2023/03/25/finished-reading-what.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781473224360\">What Abigail Did That Summer</a> by Ben Aaronovitch 📚</p>\n",
+				"content_text": "Finished reading: [What Abigail Did That Summer](https://micro.blog/books/9781473224360) by Ben Aaronovitch 📚\n",
+				"date_published": "2023-03-25T12:00:00-04:00",
+				"url": "https://mrt.im/2023/03/25/finished-reading-what.html",
+				"tags": ["All Books Read","Books Read In 2023"]
+			},
+			{
+				"id": "http://mergeconflict.micro.blog/2023/03/24/finished-reading-rivers.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781785855061\">Rivers of London - Black Mould #2</a> by Ben Aaronovitch 📚</p>\n",
+				"content_text": "Finished reading: [Rivers of London - Black Mould #2](https://micro.blog/books/9781785855061) by Ben Aaronovitch 📚\n",
+				"date_published": "2023-03-24T12:00:00-04:00",
+				"url": "https://mrt.im/2023/03/24/finished-reading-rivers.html",
+				"tags": ["All Books Read","Books Read In 2023"]
+			},
+			{
+				"id": "http://mergeconflict.micro.blog/2023/03/24/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781473224322\">The October Man</a> by Ben Aaronovitch 📚</p>\n",
+				"content_text": "Finished reading: [The October Man](https://micro.blog/books/9781473224322) by Ben Aaronovitch 📚\n",
+				"date_published": "2023-03-24T12:00:00-04:00",
+				"url": "https://mrt.im/2023/03/24/finished-reading-the.html",
+				"tags": ["All Books Read","Books Read In 2023"]
+			},
+			{
+				"id": "http://mergeconflict.micro.blog/2023/03/23/finished-reading-rivers.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781785852930\">Rivers Of London Vol. 2: Night Witch (Graphic Novel)</a> by Ben Aaronovitch 📚</p>\n",
+				"content_text": "Finished reading: [Rivers Of London Vol. 2: Night Witch (Graphic Novel)](https://micro.blog/books/9781785852930) by Ben Aaronovitch 📚\n",
+				"date_published": "2023-03-23T12:00:00-04:00",
+				"url": "https://mrt.im/2023/03/23/finished-reading-rivers.html",
+				"tags": ["All Books Read","Books Read In 2023"]
+			},
+			{
+				"id": "http://mergeconflict.micro.blog/2023/03/23/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781473222434\">The Furthest Station</a> by Ben Aaronovitch 📚</p>\n",
+				"content_text": "Finished reading: [The Furthest Station](https://micro.blog/books/9781473222434) by Ben Aaronovitch 📚\n",
+				"date_published": "2023-03-23T12:00:00-04:00",
+				"url": "https://mrt.im/2023/03/23/finished-reading-the.html",
+				"tags": ["All Books Read","Books Read In 2023"]
+			},
+			{
+				"id": "http://mergeconflict.micro.blog/2023/03/22/finished-reading-false.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780756416461\">False Value</a> by Ben Aaronovitch 📚</p>\n",
+				"content_text": "Finished reading: [False Value](https://micro.blog/books/9780756416461) by Ben Aaronovitch 📚\n",
+				"date_published": "2023-03-22T12:00:00-04:00",
+				"url": "https://mrt.im/2023/03/22/finished-reading-false.html",
+				"tags": ["All Books Read","Books Read In 2023"]
+			},
+			{
+				"id": "http://mergeconflict.micro.blog/2023/03/22/finished-reading-rivers.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781782761877\">Rivers Of London Vol. 1: Body Work (Graphic Novel)</a> by Ben Aaronovitch 📚</p>\n",
+				"content_text": "Finished reading: [Rivers Of London Vol. 1: Body Work (Graphic Novel)](https://micro.blog/books/9781782761877) by Ben Aaronovitch 📚\n",
+				"date_published": "2023-03-22T12:00:00-04:00",
+				"url": "https://mrt.im/2023/03/22/finished-reading-rivers.html",
+				"tags": ["All Books Read","Books Read In 2023"]
+			},
+			{
+				"id": "http://mergeconflict.micro.blog/2023/03/21/finished-reading-lies.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780756411350\">Lies Sleeping</a> by Ben Aaronovitch 📚</p>\n",
+				"content_text": "Finished reading: [Lies Sleeping](https://micro.blog/books/9780756411350) by Ben Aaronovitch 📚\n",
+				"date_published": "2023-03-21T12:00:00-04:00",
+				"url": "https://mrt.im/2023/03/21/finished-reading-lies.html",
+				"tags": ["All Books Read","Books Read In 2023"]
+			},
+			{
+				"id": "http://mergeconflict.micro.blog/2023/03/20/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780756409678\">The Hanging Tree</a> by Ben Aaronovitch 📚</p>\n",
+				"content_text": "Finished reading: [The Hanging Tree](https://micro.blog/books/9780756409678) by Ben Aaronovitch 📚\n",
+				"date_published": "2023-03-20T12:00:00-04:00",
+				"url": "https://mrt.im/2023/03/20/finished-reading-the.html",
+				"tags": ["All Books Read","Books Read In 2023"]
+			},
+			{
+				"id": "http://mergeconflict.micro.blog/2023/03/19/finished-reading-foxglove.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780575132528\">Foxglove Summer</a> by Ben Aaronovitch 📚</p>\n",
+				"content_text": "Finished reading: [Foxglove Summer](https://micro.blog/books/9780575132528) by Ben Aaronovitch 📚\n",
+				"date_published": "2023-03-19T12:00:00-04:00",
+				"url": "https://mrt.im/2023/03/19/finished-reading-foxglove.html",
+				"tags": ["All Books Read","Books Read In 2023"]
+			},
+			{
+				"id": "http://mergeconflict.micro.blog/2023/03/18/finished-reading-broken.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780698143715\">Broken Homes</a> by Ben Aaronovitch 📚</p>\n",
+				"content_text": "Finished reading: [Broken Homes](https://micro.blog/books/9780698143715) by Ben Aaronovitch 📚\n",
+				"date_published": "2023-03-18T12:00:00-04:00",
+				"url": "https://mrt.im/2023/03/18/finished-reading-broken.html",
+				"tags": ["All Books Read","Books Read In 2023"]
+			},
+			{
+				"id": "http://mergeconflict.micro.blog/2023/03/18/finished-reading-whispers.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781625676078\">Whispers Underground</a> by Ben Aaronovitch 📚</p>\n",
+				"content_text": "Finished reading: [Whispers Underground](https://micro.blog/books/9781625676078) by Ben Aaronovitch 📚\n",
+				"date_published": "2023-03-18T12:00:00-04:00",
+				"url": "https://mrt.im/2023/03/18/finished-reading-whispers.html",
+				"tags": ["All Books Read","Books Read In 2023"]
+			},
+			{
+				"id": "http://mergeconflict.micro.blog/2023/03/17/finished-reading-moon.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781625676061\">Moon Over Soho</a> by Ben Aaronovitch 📚</p>\n",
+				"content_text": "Finished reading: [Moon Over Soho](https://micro.blog/books/9781625676061) by Ben Aaronovitch 📚\n",
+				"date_published": "2023-03-17T12:00:00-04:00",
+				"url": "https://mrt.im/2023/03/17/finished-reading-moon.html",
+				"tags": ["All Books Read","Books Read In 2023"]
+			},
+			{
+				"id": "http://mergeconflict.micro.blog/2023/03/16/finished-reading-rivers.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781473222243\">Rivers of London</a> by Ben Aaronovitch 📚</p>\n",
+				"content_text": "Finished reading: [Rivers of London](https://micro.blog/books/9781473222243) by Ben Aaronovitch 📚\n",
+				"date_published": "2023-03-16T12:00:00-04:00",
+				"url": "https://mrt.im/2023/03/16/finished-reading-rivers.html",
+				"tags": ["All Books Read","Books Read In 2023"]
+			},
+			{
+				"id": "http://mergeconflict.micro.blog/2023/02/20/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781250122742\">The Crow Trap</a> by Ann Cleeves 📚</p>\n",
+				"content_text": "Finished reading: [The Crow Trap](https://micro.blog/books/9781250122742) by Ann Cleeves 📚\n",
+				"date_published": "2023-02-20T12:00:00-04:00",
+				"url": "https://mrt.im/2023/02/20/finished-reading-the.html",
+				"tags": ["All Books Read","Books Read In 2023"]
+			},
+			{
+				"id": "http://mergeconflict.micro.blog/2023/02/18/finished-reading-firebreak.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781982142759\">Firebreak</a> by Nicole Kornher-Stace 📚</p>\n",
+				"content_text": "Finished reading: [Firebreak](https://micro.blog/books/9781982142759) by Nicole Kornher-Stace 📚\n",
+				"date_published": "2023-02-18T12:00:00-04:00",
+				"url": "https://mrt.im/2023/02/18/finished-reading-firebreak.html",
+				"tags": ["All Books Read","Books Read In 2023"]
+			},
+			{
+				"id": "http://mergeconflict.micro.blog/2023/02/18/finished-reading-lockwood.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781484711897\">Lockwood &amp; Co. Book Three The Hollow Boy</a> by Jonathan Stroud 📚</p>\n",
+				"content_text": "Finished reading: [Lockwood & Co. Book Three The Hollow Boy](https://micro.blog/books/9781484711897) by Jonathan Stroud 📚\n",
+				"date_published": "2023-02-18T01:00:00-04:00",
+				"url": "https://mrt.im/2023/02/18/finished-reading-lockwood.html",
+				"tags": ["All Books Read","Books Read In 2023"]
+			},
+			{
+				"id": "http://mergeconflict.micro.blog/2023/02/17/finished-reading-lockwood.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781423194620\">Lockwood &amp; Co., Book 2 The Whispering Skull</a> by Jonathan Stroud 📚</p>\n",
+				"content_text": "Finished reading: [Lockwood & Co., Book 2 The Whispering Skull](https://micro.blog/books/9781423194620) by Jonathan Stroud 📚\n",
+				"date_published": "2023-02-17T12:00:00-04:00",
+				"url": "https://mrt.im/2023/02/17/finished-reading-lockwood.html",
+				"tags": ["All Books Read","Books Read In 2023"]
+			},
+			{
+				"id": "http://mergeconflict.micro.blog/2023/02/16/finished-reading-lockwood.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781423186922\">Lockwood &amp; Co. The Screaming Staircase</a> by Jonathan Stroud 📚</p>\n",
+				"content_text": "Finished reading: [Lockwood & Co. The Screaming Staircase](https://micro.blog/books/9781423186922) by Jonathan Stroud 📚\n",
+				"date_published": "2023-02-16T12:00:00-04:00",
+				"url": "https://mrt.im/2023/02/16/finished-reading-lockwood.html",
+				"tags": ["All Books Read","Books Read In 2023"]
+			},
+			{
+				"id": "http://mergeconflict.micro.blog/2023/01/24/finished-reading-countdown.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780770436193\">Countdown to Zero Day: Stuxnet and the Launch of the World&rsquo;s First Digital Weapon</a> by Kim Zetter 📚</p>\n",
+				"content_text": "Finished reading: [Countdown to Zero Day: Stuxnet and the Launch of the World's First Digital Weapon](https://micro.blog/books/9780770436193) by Kim Zetter 📚\n",
+				"date_published": "2023-01-24T12:00:00-04:00",
+				"url": "https://mrt.im/2023/01/24/finished-reading-countdown.html",
+				"tags": ["All Books Read","Books Read In 2023"]
+			},
+			{
+				"id": "http://mergeconflict.micro.blog/2023/01/23/finished-reading-station.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780593098110\">Station Eternity</a> by Mur Lafferty 📚</p>\n",
+				"content_text": "Finished reading: [Station Eternity](https://micro.blog/books/9780593098110) by Mur Lafferty 📚\n",
+				"date_published": "2023-01-23T12:00:00-04:00",
+				"url": "https://mrt.im/2023/01/23/finished-reading-station.html",
+				"tags": ["All Books Read","Books Read In 2023"]
+			},
+			{
+				"id": "http://mergeconflict.micro.blog/2023/01/17/finished-reading-tracers.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780385548106\">Tracers in the Dark</a> by Andy Greenberg 📚</p>\n",
+				"content_text": "Finished reading: [Tracers in the Dark](https://micro.blog/books/9780385548106) by Andy Greenberg 📚\n",
+				"date_published": "2023-01-17T12:00:00-04:00",
+				"url": "https://mrt.im/2023/01/17/finished-reading-tracers.html",
+				"tags": ["All Books Read","Books Read In 2023"]
+			},
+			{
+				"id": "http://mergeconflict.micro.blog/2023/01/10/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781645240815\">The Dispatcher: Travel by Bullet</a> by John Scalzi 📚</p>\n",
+				"content_text": "Finished reading: [The Dispatcher: Travel by Bullet](https://micro.blog/books/9781645240815) by John Scalzi 📚\n",
+				"date_published": "2023-01-10T12:00:00-04:00",
+				"url": "https://mrt.im/2023/01/10/finished-reading-the.html",
+				"tags": ["All Books Read","Books Read In 2023"]
+			},
+			{
+				"id": "http://mergeconflict.micro.blog/2023/01/10/080000.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781645240174\">The Dispatcher: Murder by Other Means</a> by John Scalzi 📚</p>\n",
+				"content_text": "Finished reading: [The Dispatcher: Murder by Other Means](https://micro.blog/books/9781645240174) by John Scalzi 📚\n",
+				"date_published": "2023-01-10T08:00:00-04:00",
+				"url": "https://mrt.im/2023/01/10/080000.html",
+				"tags": ["All Books Read","Books Read In 2023"]
+			},
+			{
+				"id": "http://mergeconflict.micro.blog/2023/01/09/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781596067868\">The Dispatcher</a> by John Scalzi 📚</p>\n",
+				"content_text": "Finished reading: [The Dispatcher](https://micro.blog/books/9781596067868) by John Scalzi 📚\n",
+				"date_published": "2023-01-09T12:00:00-04:00",
+				"url": "https://mrt.im/2023/01/09/finished-reading-the.html",
+				"tags": ["All Books Read","Books Read In 2023"]
+			},
+			{
+				"id": "http://mergeconflict.micro.blog/2023/01/05/finished-reading-engineering.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9798986769301\">Engineering Management for the Rest of Us</a> by Sarah Drasner 📚</p>\n",
+				"content_text": "Finished reading: [Engineering Management for the Rest of Us](https://micro.blog/books/9798986769301) by Sarah Drasner 📚\n",
+				"date_published": "2023-01-05T08:00:00-04:00",
+				"url": "https://mrt.im/2023/01/05/finished-reading-engineering.html",
+				"tags": ["All Books Read","Books Read In 2023"]
+			},
+			{
+				"id": "http://mergeconflict.micro.blog/2023/01/03/finished-reading-sandworm.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780525564638\">Sandworm</a> by Andy Greenberg 📚</p>\n",
+				"content_text": "Finished reading: [Sandworm](https://micro.blog/books/9780525564638) by Andy Greenberg 📚\n",
+				"date_published": "2023-01-03T12:00:00-04:00",
+				"url": "https://mrt.im/2023/01/03/finished-reading-sandworm.html",
+				"tags": ["All Books Read","Books Read In 2023"]
+			}
+	]
+}
