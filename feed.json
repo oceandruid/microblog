@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://mergeconflict.micro.blog/2023/08/22/finished-reading-siege.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781250044433\">Siege and Storm (Grisha Trilogy, #2)</a> by Leigh Bardugo 📚</p>\n",
+				"content_text": "Finished reading: [Siege and Storm (Grisha Trilogy, #2)](https://micro.blog/books/9781250044433) by Leigh Bardugo 📚\n",
+				"date_published": "2023-08-22T22:14:03-04:00",
+				"url": "https://mrt.im/2023/08/22/finished-reading-siege.html",
+				"tags": ["Books Read In 2023"]
+			},
+			{
+				"id": "http://mergeconflict.micro.blog/2023/08/19/finished-reading-shadow.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781510108899\">Shadow and Bone</a> by Leigh Bardugo 📚</p>\n",
+				"content_text": "Finished reading: [Shadow and Bone](https://micro.blog/books/9781510108899) by Leigh Bardugo 📚\n",
+				"date_published": "2023-08-19T10:39:10-04:00",
+				"url": "https://mrt.im/2023/08/19/finished-reading-shadow.html",
+				"tags": ["Books Read In 2023"]
+			},
+			{
+				"id": "http://mergeconflict.micro.blog/2023/08/17/finished-reading-hench.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780062978592\">Hench: A Novel</a> by Natalie Zina Walschots 📚</p>\n",
+				"content_text": "Finished reading: [Hench: A Novel](https://micro.blog/books/9780062978592) by Natalie Zina Walschots 📚\n",
+				"date_published": "2023-08-17T10:40:00-04:00",
+				"url": "https://mrt.im/2023/08/17/finished-reading-hench.html",
+				"tags": ["Books Read In 2023"]
+			},
+			{
 				"id": "http://mergeconflict.micro.blog/2023/08/07/finished-reading-tithe.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781534484511\">Tithe</a> by Holly Black 📚</p>\n",
