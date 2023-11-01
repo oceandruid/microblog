@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://mergeconflict.micro.blog/2023/10/10/finished-reading-assistant.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781649375520\">Assistant to the Villain</a> by Hannah Nicole Maehrer 📚</p>\n",
+				"content_text": "Finished reading: [Assistant to the Villain](https://micro.blog/books/9781649375520) by Hannah Nicole Maehrer 📚\n",
+				"date_published": "2023-10-10T11:59:44-03:00",
+				"url": "https://mrt.im/2023/10/10/finished-reading-assistant.html",
+				"tags": ["Books Read In 2023"]
+			},
+			{
+				"id": "http://mergeconflict.micro.blog/2023/10/10/finished-reading-our.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780062380906\">Our Dark Duet</a> by Victoria Schwab 📚</p>\n",
+				"content_text": "Finished reading: [Our Dark Duet](https://micro.blog/books/9780062380906) by Victoria Schwab 📚\n",
+				"date_published": "2023-10-10T11:49:21-03:00",
+				"url": "https://mrt.im/2023/10/10/finished-reading-our.html",
+				"tags": ["Books Read In 2023"]
+			},
+			{
+				"id": "http://mergeconflict.micro.blog/2023/10/10/finished-reading-this.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780062380876\">This Savage Song</a> by V. E. Schwab 📚</p>\n",
+				"content_text": "Finished reading: [This Savage Song](https://micro.blog/books/9780062380876) by V. E. Schwab 📚\n",
+				"date_published": "2023-10-10T11:48:31-03:00",
+				"url": "https://mrt.im/2023/10/10/finished-reading-this.html",
+				"tags": ["Books Read In 2023"]
+			},
+			{
 				"id": "http://mergeconflict.micro.blog/2023/10/04/finished-reading-starter.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781529082951\">Starter Villain</a> by John Scalzi 📚</p>\n",
